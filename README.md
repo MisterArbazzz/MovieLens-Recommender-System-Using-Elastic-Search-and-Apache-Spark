@@ -35,10 +35,6 @@ structured and unstructured data in order to extract knowledge and insights.
 * [Artificial Intelligence](https://medium.com/ibm-data-science-experience): Artificial intelligence can be applied to disparate solution spaces to deliver disruptive technologies.
 * [Python](https://www.python.org/): Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 
-# Watch the Video
-
-[![](https://img.youtube.com/vi/MJUO0CLNbB0/0.jpg)](https://www.youtube.com/watch?v=MJUO0CLNbB0)
-
 # Steps
 
 Follow these steps to create the required services and run the notebook locally.
